@@ -1,5 +1,5 @@
-How to request personal data associated to the use of public WiFi in train stations
-===================================================================================
+How to request personal data associated to the use of public WiFi in Swiss train stations
+=========================================================================================
 
 (note: as of June 16 2016, still untested)
 
