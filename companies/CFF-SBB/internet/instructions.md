@@ -1,3 +1,6 @@
+How to request personal data associated to the use of public WiFi in train stations
+===================================================================================
+
 (note: as of June 16 2016, still untested)
 
 - Go to the [contact form](http://www.sbb.ch/en/station-services/am-bahnhof/dhl-service-point/free-wifi.html#contact_form)
